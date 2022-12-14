@@ -1,0 +1,23 @@
+
+.flt{
+float: left;
+width: 15%;
+}
+.red{
+    background: red;
+    width: 150px;
+    height: 150px;
+    float: left;
+    left: 0px;
+    right: 0px;
+}
+.marg{
+    float: inline-end;
+    margin: 5px;
+
+}
+.wdth{
+    width: 170px;
+    display:flex;
+    margin-left: 115px;
+}
